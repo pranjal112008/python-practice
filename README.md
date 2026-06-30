@@ -1,2 +1,68 @@
 # python-practice
 My Python learning journey with practice problems, coding exercises, and fundamental programming concepts implemented in Python.
+
+A structured collection of my Python practice programs, coding exercises, and problem-solving challenges completed while learning Python through freeCodeCamp .
+## 📚 About
+
+This repository documents my Python learning progress. It contains practice programs organized by topic, ranging from basic syntax to problem-solving exercises. As I continue learning, I will regularly add new programs, mini-projects, and concepts.
+
+
+## 📂 Repository Structure
+
+```
+python-practice/
+│
+├── 01-basics
+├── 02-conditionals
+├── 03-loops
+├── 04-lists
+├── 05-functions
+├── 06-patterns
+└── 07-misc
+```
+
+## 📖 Topics Covered
+
+* Variables & Data Types
+* Input & Output
+* Operators
+* Conditional Statements
+* Loops
+* Functions
+* Lists
+* Number Programs
+* Pattern Printing
+* Basic Problem Solving
+
+## ⭐ Notable Programs
+
+* Student Marks Analyzer
+* Prime Number Checker
+* Fibonacci Series
+* Number Guessing Game
+* Simple Calculator
+* Reverse a Number
+* Count Digits
+* Highest & Lowest Marks
+* Even & Odd Counter
+
+## 🛠️ Tools & Technologies
+
+* Python 3
+* Visual Studio Code
+* Git
+* GitHub
+
+## 📚 Learning Resources
+
+* freeCodeCamp Python Certification
+* Python Documentation through youtube and outher ai websites (claude,chatgpt,gork)
+
+## 📈 Progress
+
+This repository is continuously updated as I complete new topics and practice programs.
+
+## 👩‍💻 Author
+
+**Pranjal Jhariya**
+
