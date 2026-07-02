@@ -48,7 +48,7 @@ python-practice/
 
 ## 🛠️ Tools & Technologies
 
-* Python 3
+* Python 3.14.5
 * Visual Studio Code
 * Git
 * GitHub
@@ -56,7 +56,7 @@ python-practice/
 ## 📚 Learning Resources
 
 * freeCodeCamp Python Certification
-* Python Documentation through youtube and outher ai websites (claude,chatgpt,gork)
+* Python Documentation through youtube and outher ai websites (claude,gork)
 
 ## 📈 Progress
 
