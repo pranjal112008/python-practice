@@ -1,4 +1,7 @@
-def greet (name):
-    print("Hello",name)
-name=input("Enter your name: ")
-greet(name)
+def greet(name):
+    print(f"Hello, {name}! Welcome.")
+name = input("Enter your name: ").strip()
+if name:
+    greet(name)
+else:
+    print("Hello, Guest!")
