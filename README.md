@@ -19,6 +19,7 @@ python-practice/
 ├── 05-functions
 ├── 06-patterns
 └── 07-misc
+|__ 08-string
 ```
 
 ## 📖 Topics Covered
@@ -33,6 +34,8 @@ python-practice/
 * Number Programs
 * Pattern Printing
 * Basic Problem Solving
+*String
+
 
 ## ⭐ Notable Programs
 
