@@ -48,6 +48,7 @@ python-practice/
 * Count Digits
 * Highest & Lowest Marks
 * Even & Odd Counter
+* Longest Substring Without Repeating Characters
 
 ## 🛠️ Tools & Technologies
 
