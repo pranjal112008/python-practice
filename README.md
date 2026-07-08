@@ -51,7 +51,7 @@ python-practice/
 * Longest Substring Without Repeating Characters
 * Group Anagrams
 * Longest Palindromic Substring
-
+* String to Integer (atoi)
 
 
 
