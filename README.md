@@ -49,6 +49,8 @@ python-practice/
 * Highest & Lowest Marks
 * Even & Odd Counter
 * Longest Substring Without Repeating Characters
+* Group Anagrams
+
 
 ## 🛠️ Tools & Technologies
 
