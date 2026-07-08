@@ -50,6 +50,10 @@ python-practice/
 * Even & Odd Counter
 * Longest Substring Without Repeating Characters
 * Group Anagrams
+* Longest Palindromic Substring
+
+
+
 
 
 ## 🛠️ Tools & Technologies
