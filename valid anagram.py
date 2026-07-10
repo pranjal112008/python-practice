@@ -1,11 +1,7 @@
-def isAnagram(s: str, t: str) -> bool:
-    if len(s) != len(t):
-        return False
-    count = [0] * 26
-    for char in s:
-        count[ord(char) - ord('a')] += 1
-    for char in t:
-        count[ord(char) - ord('a')] -= 1
-    return all(x == 0 for x in count)
-result = isAnagram(input("Enter first string: ").capitalize(), input("Enter second string: ").capitalize())
-print(result)
+from collections import Counter
+def is_anagram(s: str, t: str) -> bool:
+    return Counter(s) == Counter(t)  
+if __name__ == "__main__":
+    s = input("Enter first string: ").strip().lower()
+    t = input("Enter second string: ").strip().lower()
+    print(is_anagram(s, t))
