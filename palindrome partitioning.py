@@ -1,17 +1,18 @@
 def partition(s: str):
-    def isPalindrome(sub):
+    def is_palindrome(sub: str) -> bool:
         return sub == sub[::-1]
-    def backtrack(start, path):
+    def backtrack(start: int, path: list):
         if start == len(s):
             result.append(path[:])
             return
         for end in range(start + 1, len(s) + 1):
-            if isPalindrome(s[start:end]):
+            if is_palindrome(s[start:end]):
                 path.append(s[start:end])
                 backtrack(end, path)
                 path.pop()
     result = []
     backtrack(0, [])
     return result
-text = input("Enter a string: ")
-print(partition(text))
+if __name__ == "__main__":
+    text = input("Enter a string: ").strip()
+    print(partition(text))
