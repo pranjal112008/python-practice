@@ -72,7 +72,7 @@ python-practice/
 
 ## 📈 Progress
 
-This repository is continuously updated as I complete new topics and practice programs.
+This repository is continuously updated as I complete new topics and practice programs are added.
 
 ## 👩‍💻 Author
 
