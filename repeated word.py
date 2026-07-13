@@ -1,0 +1,5 @@
+sentence = input("Enter a sentence: ").lower()
+word = input("Enter the word to count: ").lower()
+words = sentence.split()
+count = words.count(word)
+print(f"The word '{word}' appears {count} time(s) in the sentence.")
