@@ -20,6 +20,7 @@ python-practice/
 ├── 06-patterns
 └── 07-misc
 |__ 08-string
+
 ```
 
 ## 📖 Topics Covered
