@@ -2,6 +2,7 @@
 My Python learning journey with practice problems, coding exercises, and fundamental programming concepts implemented in Python.
 
 A structured collection of my Python practice programs, coding exercises, and problem-solving challenges completed while learning Python through freeCodeCamp .
+
 ## 📚 About
 
 This repository documents my Python learning progress. It contains practice programs organized by topic, ranging from basic syntax to problem-solving exercises. As I continue learning, I will regularly add new programs, mini-projects, and concepts.
