@@ -20,4 +20,5 @@ def analyze_marks():
         print("="*40)
     except ValueError:
         print("Please enter valid numbers!")
+
 analyze_marks()
