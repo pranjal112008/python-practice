@@ -45,55 +45,55 @@ python-practice/
 ## 📁 Full Program Index
 
 ### 01-basics
-| Program | Description |
-|---|---|
-| `hello.py` | Classic "Hello, World!" |
-| `name.py` | Takes user's name and prints a personalized welcome |
-| `greeting.py` | Greeting program with optional name input |
-| `fuction_with_parameter.py` | Demonstrates functions with parameters |
-| `add.py` | Adds two integers |
-| `add_2_numbers.py` | Adds two numbers using a dedicated function |
-| `average_of_2_number.py` | Calculates average of two numbers |
-| `area_of_square.py` | Calculates area of a square from side length |
-| `largest_of_2_number.py` | Finds the larger of two numbers |
-| `create_list.py` | Basic list creation, indexing, and appending |
+| Program                     | Description                                         |
+|-----------------------------|-----------------------------------------------------|
+| `hello.py`                  | Classic "Hello, World!"                             |
+| `name.py`                   | Takes user's name and prints a personalized welcome |
+| `greeting.py`               | Greeting program with optional name input           |
+| `fuction_with_parameter.py` | Demonstrates functions with parameters              |
+| `add.py`                    | Adds two integers                                   |
+| `add_2_numbers.py`          | Adds two numbers using a dedicated function         |
+| `average_of_2_number.py`    | Calculates average of two numbers                   |
+| `area_of_square.py`         | Calculates area of a square from side length        |
+| `largest_of_2_number.py`    | Finds the larger of two numbers                     |
+| `create_list.py`            | Basic list creation, indexing, and appending        |
 
 ### 02-conditionals
-| Program | Description |
-|---|---|
-| `odd_even.py` | Checks if a number is odd or even |
-| `positive_negative_zero.py` | Classifies a number as positive/negative/zero |
-| `leap_year.py` | Determines whether a given year is a leap year |
-| `divisible_by_5_and_11.py` | Checks divisibility by 5 and/or 11 |
-| `multiple_of_7_or_not.py` | Checks if a number is a multiple of 7 |
-| `voting_eligibility.py` | Checks voting eligibility based on age |
-| `report_card.py` | Assigns letter grade based on marks |
-| `greatest_number.py` | Finds the greatest of three numbers |
+| Program                     | Description                                    |
+|-----------------------------|------------------------------------------------|
+| `odd_even.py`               | Checks if a number is odd or even              |
+| `positive_negative_zero.py` | Classifies a number as positive/negative/zero  |
+| `leap_year.py`              | Determines whether a given year is a leap year |
+| `divisible_by_5_and_11.py`  | Checks divisibility by 5 and/or 11             |
+| `multiple_of_7_or_not.py`   | Checks if a number is a multiple of 7          |
+| `voting_eligibility.py`     | Checks voting eligibility based on age         |
+| `report_card.py`            | Assigns letter grade based on marks            |
+| `greatest_number.py`        | Finds the greatest of three numbers            |
 
 ### 03-loops
-| Program | Description |
-|---|---|
-| `number_1_to_20.py` | Prints numbers in a range |
-| `star_pattern.py` | Prints a triangular star pattern |
-| `even_or_odd_number_between.py` | Prints even/odd numbers in a range |
-| `fibonacci_series.py` | Generates the Fibonacci sequence up to n terms |
-| `multiplication_table.py` | Prints multiplication table up to N |
-| `sum_of_first_10_or_more_number.py` | Sum of first N natural numbers |
-| `prime_number.py` | Checks whether a given number is prime |
-| `calculator.py` | Performs basic arithmetic operations |
+| Program                             | Description                                    |
+|-------------------------------------|------------------------------------------------|
+| `number_1_to_20.py`                 | Prints numbers in a range                      |
+| `star_pattern.py`                   | Prints a triangular star pattern               |
+| `even_or_odd_number_between.py`     | Prints even/odd numbers in a range             |
+| `fibonacci_series.py`               | Generates the Fibonacci sequence up to n terms |
+| `multiplication_table.py`           | Prints multiplication table up to N            |
+| `sum_of_first_10_or_more_number.py` | Sum of first N natural numbers                 |
+| `prime_number.py`                   | Checks whether a given number is prime         |
+| `calculator.py`                     | Performs basic arithmetic operations           |
 
 ### 04-lists
-| Program | Description |
-|---|---|
+| Program                                  | Description                                         |
+|------------------------------------------|-----------------------------------------------------|
 | `reverse_list_without_reverse_method.py` | Reverses a list manually (no built-in `.reverse()`) |
-| `even_and_odd_counter.py` | Counts even and odd numbers from a list of inputs |
+| `even_and_odd_counter.py`                | Counts even and odd numbers from a list of inputs   |
 
 ### 05-functions
-| Program | Description |
-|---|---|
-| `reverse_a_number.py` | Reverses the digits of an integer |
-| `count_dights.py` | Counts the number of digits in a number |
-| `factorial_of_a_number.py` | Calculates factorial iteratively |
+| Program                    | Description                             |
+|----------------------------|-----------------------------------------|
+| `reverse_a_number.py`      | Reverses the digits of an integer       |
+| `count_dights.py`          | Counts the number of digits in a number |
+| `factorial_of_a_number.py` | Calculates factorial iteratively        |
 
 ### 06-patterns
 | Program | Description |
