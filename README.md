@@ -21,7 +21,8 @@ python-practice/
 ├── 06-patterns/
 ├── 07-misc/
 ├── 08-string/
-└── 09-dsa/
+├── 09-dsa/
+└── 13-recursion/
 ```
 
 ## 📖 Topics Covered
@@ -41,59 +42,60 @@ python-practice/
 - Sliding Window Technique
 - Backtracking
 - Hashing (Counter, defaultdict)
+- Recursion
 
 ## 📁 Full Program Index
 
 ### 01-basics
-| Program                     | Description                                         |
-|-----------------------------|-----------------------------------------------------|
-| `hello.py`                  | Classic "Hello, World!"                             |
-| `name.py`                   | Takes user's name and prints a personalized welcome |
-| `greeting.py`               | Greeting program with optional name input           |
-| `fuction_with_parameter.py` | Demonstrates functions with parameters              |
-| `add.py`                    | Adds two integers                                   |
-| `add_2_numbers.py`          | Adds two numbers using a dedicated function         |
-| `average_of_2_number.py`    | Calculates average of two numbers                   |
-| `area_of_square.py`         | Calculates area of a square from side length        |
-| `largest_of_2_number.py`    | Finds the larger of two numbers                     |
-| `create_list.py`            | Basic list creation, indexing, and appending        |
+| Program | Description |
+|---|---|
+| `hello.py` | Classic "Hello, World!" |
+| `name.py` | Takes user's name and prints a personalized welcome |
+| `greeting.py` | Greeting program with optional name input |
+| `fuction_with_parameter.py` | Demonstrates functions with parameters |
+| `add.py` | Adds two integers |
+| `add_2_numbers.py` | Adds two numbers using a dedicated function |
+| `average_of_2_number.py` | Calculates average of two numbers |
+| `area_of_square.py` | Calculates area of a square from side length |
+| `largest_of_2_number.py` | Finds the larger of two numbers |
+| `create_list.py` | Basic list creation, indexing, and appending |
 
 ### 02-conditionals
-| Program                     | Description                                    |
-|-----------------------------|------------------------------------------------|
-| `odd_even.py`               | Checks if a number is odd or even              |
-| `positive_negative_zero.py` | Classifies a number as positive/negative/zero  |
-| `leap_year.py`              | Determines whether a given year is a leap year |
-| `divisible_by_5_and_11.py`  | Checks divisibility by 5 and/or 11             |
-| `multiple_of_7_or_not.py`   | Checks if a number is a multiple of 7          |
-| `voting_eligibility.py`     | Checks voting eligibility based on age         |
-| `report_card.py`            | Assigns letter grade based on marks            |
-| `greatest_number.py`        | Finds the greatest of three numbers            |
+| Program | Description |
+|---|---|
+| `odd_even.py` | Checks if a number is odd or even |
+| `positive_negative_zero.py` | Classifies a number as positive/negative/zero |
+| `leap_year.py` | Determines whether a given year is a leap year |
+| `divisible_by_5_and_11.py` | Checks divisibility by 5 and/or 11 |
+| `multiple_of_7_or_not.py` | Checks if a number is a multiple of 7 |
+| `voting_eligibility.py` | Checks voting eligibility based on age |
+| `report_card.py` | Assigns letter grade based on marks |
+| `greatest_number.py` | Finds the greatest of three numbers |
 
 ### 03-loops
-| Program                             | Description                                    |
-|-------------------------------------|------------------------------------------------|
-| `number_1_to_20.py`                 | Prints numbers in a range                      |
-| `star_pattern.py`                   | Prints a triangular star pattern               |
-| `even_or_odd_number_between.py`     | Prints even/odd numbers in a range             |
-| `fibonacci_series.py`               | Generates the Fibonacci sequence up to n terms |
-| `multiplication_table.py`           | Prints multiplication table up to N            |
-| `sum_of_first_10_or_more_number.py` | Sum of first N natural numbers                 |
-| `prime_number.py`                   | Checks whether a given number is prime         |
-| `calculator.py`                     | Performs basic arithmetic operations           |
+| Program | Description |
+|---|---|
+| `number_1_to_20.py` | Prints numbers in a range |
+| `star_pattern.py` | Prints a triangular star pattern |
+| `even_or_odd_number_between.py` | Prints even/odd numbers in a range |
+| `fibonacci_series.py` | Generates the Fibonacci sequence up to n terms — both iterative and recursive versions, with a guard against recursion's exponential blowup for large n |
+| `multiplication_table.py` | Prints multiplication table up to N |
+| `sum_of_first_10_or_more_number.py` | Sum of first N natural numbers |
+| `prime_number.py` | Checks whether a given number is prime |
+| `calculator.py` | Performs basic arithmetic operations |
 
 ### 04-lists
-| Program                                  | Description                                         |
-|------------------------------------------|-----------------------------------------------------|
+| Program | Description |
+|---|---|
 | `reverse_list_without_reverse_method.py` | Reverses a list manually (no built-in `.reverse()`) |
-| `even_and_odd_counter.py`                | Counts even and odd numbers from a list of inputs   |
+| `even_and_odd_counter.py` | Counts even and odd numbers from a list of inputs |
 
 ### 05-functions
-| Program                    | Description                             |
-|----------------------------|-----------------------------------------|
-| `reverse_a_number.py`      | Reverses the digits of an integer       |
-| `count_dights.py`          | Counts the number of digits in a number |
-| `factorial_of_a_number.py` | Calculates factorial iteratively        |
+| Program | Description |
+|---|---|
+| `reverse_a_number.py` | Reverses the digits of an integer |
+| `count_dights.py` | Counts the number of digits in a number |
+| `factorial_of_a_number.py` | Calculates factorial both iteratively and recursively, side by side |
 
 ### 06-patterns
 | Program | Description |
@@ -134,6 +136,11 @@ python-practice/
 
 > ⚠️ Note: `zingzacg_conversion.py` is a duplicate of `zigzag_conversion.py` (same logic, misspelled filename) — kept for now, to be cleaned up.
 
+### 13-recursion
+| Program | Description |
+|---|---|
+| `binary_search_recursive.py` | Recursive binary search over a sorted list, with a warning if the input isn't sorted |
+
 ## ⭐ Notable Programs
 
 | Program | Description |
@@ -173,7 +180,7 @@ python-practice/
 
 This repository is updated continuously as I complete new topics — practice programs are added alongside my learning.
 
-**Current stats:** 52 programs across 9 topic areas, from basic syntax to dynamic programming and backtracking.
+**Current stats:** 53 programs across 10 topic areas, from basic syntax to dynamic programming, backtracking, and recursion.
 
 ## 👩‍💻 Author
 
