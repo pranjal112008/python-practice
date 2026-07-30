@@ -174,6 +174,7 @@ python-practice/
 |---|---|
 | `binary_search_recursive.py` | Recursive binary search over a sorted list, with a warning if the input isn't sorted |
 
+
 ## ⭐ Notable Programs
 
 | Program | Description |
