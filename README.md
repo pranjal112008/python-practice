@@ -25,7 +25,8 @@ python-practice/
 ├── 10-comprehensions/
 ├── 11-functional/
 ├── 12-reduce/
-└── 13-recursion/
+├── 13-recursion/
+└── 14-generators/
 ```
 
 ## 📖 Topics Covered
@@ -49,6 +50,7 @@ python-practice/
 - Functional programming (`map`, `filter`, `lambda`)
 - `functools.reduce`
 - Recursion
+- Generators (`yield`)
 
 ## 📁 Full Program Index
 
@@ -174,6 +176,10 @@ python-practice/
 |---|---|
 | `binary_search_recursive.py` | Recursive binary search over a sorted list, with a warning if the input isn't sorted |
 
+### 14-generators
+| Program | Description |
+|---|---|
+| `infinite_primes.py` | A generator that yields prime numbers forever — the caller decides how many to pull |
 
 ## ⭐ Notable Programs
 
@@ -214,7 +220,7 @@ python-practice/
 
 This repository is updated continuously as I complete new topics — practice programs are added alongside my learning.
 
-**Current stats:** 68 programs across 13 topic areas, from basic syntax to dynamic programming, backtracking, functional-style Python, and recursion.
+**Current stats:** 69 programs across 14 topic areas, from basic syntax to dynamic programming, backtracking, functional-style Python, recursion, and generators.
 
 ## 👩‍💻 Author
 
