@@ -181,6 +181,7 @@ python-practice/
 |---|---|
 | `infinite_primes.py` | A generator that yields prime numbers forever — the caller decides how many to pull |
 
+
 ## ⭐ Notable Programs
 
 | Program | Description |
